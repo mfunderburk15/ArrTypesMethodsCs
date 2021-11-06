@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\bin\Debug\netcoreapp3.1\ArrMethodsCs.exe
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\bin\Debug\netcoreapp3.1\ArrMethodsCs.deps.json
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\bin\Debug\netcoreapp3.1\ArrMethodsCs.runtimeconfig.json
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\bin\Debug\netcoreapp3.1\ArrMethodsCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\bin\Debug\netcoreapp3.1\ArrMethodsCs.dll
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\bin\Debug\netcoreapp3.1\ArrMethodsCs.pdb
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.dll
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.pdb
+C:\Users\masen\source\repos\ArrMethodsCs\ArrMethodsCs\obj\Debug\netcoreapp3.1\ArrMethodsCs.genruntimeconfig.cache
